@@ -1,1 +1,1 @@
-# tribute-page
+# descriptional-page
